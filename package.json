@@ -1,0 +1,15 @@
+{
+  "name": "fuck-mock-docs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "1步 <xiyuanyuan91@163.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.39",
+    "vuepress-theme-mix": "^1.3.1"
+  }
+}
