@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": ["dep:evtd"],
-  "sourcesContent": ["\nexport * from \"../../../../node_modules/evtd/es/index.js\""],
-  "mappings": ";;;;;;;;;AAAA;",
-  "names": []
-}

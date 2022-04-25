@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": ["dep:vooks"],
-  "sourcesContent": ["\nexport * from \"../../../../node_modules/vooks/es/index.js\""],
-  "mappings": ";;;;;;;;;;;;;;;;;;;;;;;;AAAA;",
-  "names": []
-}
