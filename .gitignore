@@ -1,6 +1,5 @@
 docs/.vuepress/.temp
 docs/.vuepress/.cache
-dist/
 ### Node ###
 # Logs
 logs
