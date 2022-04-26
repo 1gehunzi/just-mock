@@ -6,16 +6,16 @@ actions:
   - text: 快速上手
     link: /zh/guide/getting-started.html
     type: primary
-  - text: 主题简介
+  - text: 了解更多
     link: /zh/guide/
     type: secondary
 features:
-  - title: 为 2 而来
+  - title: 快速上手
     details: 一款专为 VuePress 2 打造的全新主题，由 Vue 3 驱动，支持 Vite 。
-  - title: 优雅简洁
-    details: 坚持实用至上，拒绝花里胡哨的功能堆砌，并保持 UI 的优雅简洁。
-  - title: 暗黑模式
+  - title: 简洁轻量
     details: 本主题支持暗黑模式，提升了暗光环境下的文档阅读体验。
+  - title: 随时随地
+    details: 坚持实用至上，拒绝花里胡哨的功能堆砌，并保持 UI 的优雅简洁。
 footer: MIT Licensed | Copyright © 2021-present 亖混子
 ---
 

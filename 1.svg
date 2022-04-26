@@ -1,0 +1,18 @@
+<svg viewBox="0 0 500 500" version="1.1" id="svg_null" xmlns="http://www.w3.org/2000/svg">
+    <g id="root" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="background"  x="0" y="0" width="500" height="500"></rect>
+        <g id="shape.accent" transform="translate(148.000000, 127.000000)" fill="#409eff">
+            <polygon points="61.5 0 82 41 41 41"></polygon>
+            <path d="M61.45 81.9l-20.45 -40.9l41 0l-0.05 0.1l20.45 40.9l-41 0l0.05 -0.1z" fill-opacity=".8"></path>
+            <path d="M20.5 82l41 0l-20.5 41l-41 0l20.5 -41z"></path>
+            <polygon fill-opacity=".8" points="41 41 61.5 82 20.5 82"></polygon>
+            <path d="M122.85 122.9l0.05 0.1l-41 0l20.45 -40.9l-0.05 -0.1l41 0l-20.45 40.9z" fill-opacity=".8"></path>
+            <polygon points="122.8 41 143.3 82 102.3 82"></polygon>
+            <path d="M163.6 41l20.5 41l-41 0l-20.5 -41l41 0z" fill-opacity=".8"></path>
+            <polygon fill-opacity=".6" points="143.1 0 163.6 41 122.6 41"></polygon>
+            <polygon points="163.6 123 143.1 82 184.1 82"></polygon>
+            <polygon fill-opacity=".8" points="184.1 82 204.6 123 163.6 123"></polygon>
+            <polygon fill-opacity=".6" points="81.9 123 61.4 82 102.4 82"></polygon>
+        </g>
+    </g>
+</svg>
