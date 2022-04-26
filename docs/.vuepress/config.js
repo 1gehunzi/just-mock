@@ -8,7 +8,8 @@ module.exports = {
   theme: 'vuepress-theme-mix',
   // base: '/fuck-mock-docs/',
   // dest: 'dist',
-  // themeConfig: {
-  //   logo: 'https://vuejs.org/images/logo.png',
-  // },
+  themeConfig: {
+    logo: '/images/logo.png',
+    title: 'Just Mock', // for navbar
+  },
 };
