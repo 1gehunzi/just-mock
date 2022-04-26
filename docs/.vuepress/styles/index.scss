@@ -8,3 +8,15 @@
 .site-brand .site-brand-title {
   font-size: 1.4rem;
 }
+
+@media screen and (max-device-width: 400px) {
+  .video {
+    width: 90%;
+  }
+}
+
+@media screen and (min-device-width: 401px) {
+  .video {
+    width: 70%;
+  }
+}

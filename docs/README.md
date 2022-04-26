@@ -24,7 +24,7 @@ footer: MIT Licensed | Copyright © 2021-present 亖混子
 <a href="/Just-Mock-v1.0.0.zip">下载浏览器插件</a>
 
 <div style="text-align: center;">
-    <video controls width="600" style="margin: auto;">
+    <video controls class="video">
       <source src="https://video-1251432287.cos.ap-beijing.myqcloud.com/video.mp4" type="video/mp4">
       Sorry, your browser doesn't support embedded videos.
     </video>
