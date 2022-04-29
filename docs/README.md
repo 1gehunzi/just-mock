@@ -25,7 +25,7 @@ footer: MIT Licensed | Copyright © 2021-present 亖混子
 
 <div style="text-align: center;">
     <video controls class="video">
-      <source src="https://video-1251432287.cos.ap-beijing.myqcloud.com/video.mp4" type="video/mp4">
+      <source src="https://video-1251432287.cos.ap-beijing.myqcloud.com/%E5%B1%8F%E5%B9%95%E5%BD%95%E5%88%B62022-04-24%20%E4%B8%8B%E5%8D%884.48.58.mov" type="video/mp4">
       Sorry, your browser doesn't support embedded videos.
     </video>
 </div>
