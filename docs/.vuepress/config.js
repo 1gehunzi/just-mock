@@ -18,13 +18,30 @@ module.exports = {
       },
       {
         text: '指南',
-        children: []
+        children: [
+          {
+            text: '首页',
+            link: '/',
+          },
+        ],
       },
       {
         text: 'VuePress',
         link: 'https://v2.vuepress.vuejs.org/zh/',
       },
     ],
+    sidebar: {
+      '/guide/': [
+        'README.md', // 支持相对路径
+        'getting-started.md',
+        {
+          type: 'group',
+          text: '编写文档',
+          link: 'writing-content/',
+          children: ['markdown.md', 'typography.md'],
+        },
+      ],
+    },
   },
   head: [
     ['script', { src: 'https://www.googletagmanager.com/gtag/js?id=G-SLY0RSGGV8', async: true }],
