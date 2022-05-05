@@ -21,7 +21,7 @@ footer: MIT Licensed | Copyright © 2021-present 亖混子
 
 ### 🚀 快速上手
 
-<a href="/Just-Mock-v1.0.0.zip">下载浏览器插件</a>
+<a href="https://video-1251432287.cos.ap-beijing.myqcloud.com/Just%20Mock-v1.0.0.zip">下载浏览器插件</a>
 
 <div style="text-align: center;">
     <video controls class="video">
