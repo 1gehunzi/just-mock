@@ -4,9 +4,9 @@ title: 首页
 heroImage: /images/logo.png
 actions:
   - text: 快速上手
-    link: /guide/
+    link: /guide/getting-started
     type: primary
-  - text: 了解更多
+  - text: 项目介绍
     link: /guide/
     type: secondary
 features:
