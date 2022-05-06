@@ -17,28 +17,25 @@ module.exports = {
         link: '/',
       },
       {
-        text: '指南',
-        children: [
-          {
-            text: '首页',
-            link: '/',
-          },
-        ],
+        text: '使用指南',
+        link: '/guide/',
       },
       {
-        text: 'VuePress',
-        link: 'https://v2.vuepress.vuejs.org/zh/',
+        text: '了解更多',
+        link: '/xxxx',
+      },
+      {
+        text: '插件下载',
+        link: 'https://video-1251432287.cos.ap-beijing.myqcloud.com/Just%20Mock-v1.0.0.zip',
       },
     ],
     sidebar: {
       '/guide/': [
-        'README.md', // 支持相对路径
-        'getting-started.md',
         {
           type: 'group',
-          text: '编写文档',
-          link: 'writing-content/',
-          children: ['markdown.md', 'typography.md'],
+          text: '使用指南',
+          link: '',
+          children: ['', 'getting-started', 'path-rules'],
         },
       ],
     },
