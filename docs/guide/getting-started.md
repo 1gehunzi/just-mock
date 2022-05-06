@@ -10,7 +10,7 @@
 
 后续有计划将 Just Mock 插件发布到应用商店，敬请期待
 
-## 手动安装
+## 插件安装
 
 这一章节会帮助你从安装到使用。
 
@@ -28,4 +28,22 @@
 
 至此，插件安装完毕。Just Mock 接入完毕
 
-## 上手体验
+## 插件体验
+
+我们以 Mock https://segmentfault.com/ 线上数据为例来介绍 Just Mock 的使用。
+
+> 别人的网站都能 Mock ， localhost 本地开发更不成问题 :upside_down_face:
+
+- **Step 1**: 配置项目
+
+  点击插件的 icon 唤起 Just Mock 操作面板，点击左下角 _添加项目_
+
+- **Step 2**: 查看请求日志
+
+  访问目标网址（https://segmentfault.com/），查看插件操作面板的请求日志
+
+- **Step 3**: 配置规则
+
+  点击目标请求的日志条目唤起请求的 Mock 规则配置；编辑规则表单，修改 Response 的数据保存规则
+
+- **Step 4**: 操作界面再次请求目标 path，查看响应
