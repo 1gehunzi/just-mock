@@ -1,9 +1,9 @@
 .home .hero > img {
-  width: 350px;
+  max-height: 280px;
 }
 .site-brand .logo-box img {
-  height: 1.8rem;
-  min-width: 1.8rem;
+  height: 2rem;
+  min-width: inherit;
 }
 .site-brand .site-brand-title {
   font-size: 1.4rem;
