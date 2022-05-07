@@ -22,7 +22,7 @@ module.exports = {
       },
       {
         text: '了解更多',
-        link: '/xxxx',
+        link: '/more',
       },
       {
         text: '插件下载',
