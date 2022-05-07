@@ -47,3 +47,5 @@
   点击目标请求的日志条目唤起请求的 Mock 规则配置；编辑规则表单，修改 Response 的数据保存规则
 
 - **Step 4**: 操作界面再次请求目标 path，查看响应
+
+<img src="/images/getting-started/1.gif" width="80%" style="display: block;margin: auto;">
