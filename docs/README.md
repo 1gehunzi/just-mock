@@ -25,5 +25,5 @@ footer: MIT Licensed | Copyright © 2021-present 亖混子
 跟着动图一步一步体验 Just Mock 吧~
 
 <div style="text-align: center;">
-<img src="/images/getting-started/1.gif" width="80%" >
+<img src="https://video-1251432287.cos.ap-beijing.myqcloud.com/1.gif" width="80%" >
 </div>

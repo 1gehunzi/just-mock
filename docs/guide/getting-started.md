@@ -48,4 +48,4 @@
 
 - **Step 4**: 操作界面再次请求目标 path，查看响应
 
-<img src="/images/getting-started/1.gif" width="80%" style="display: block;margin: auto;">
+<img src="https://video-1251432287.cos.ap-beijing.myqcloud.com/1.gif" width="80%" style="display: block;margin: auto;">
