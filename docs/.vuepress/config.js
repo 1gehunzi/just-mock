@@ -35,7 +35,7 @@ module.exports = {
           type: 'group',
           text: '使用指南',
           link: '',
-          children: ['', 'getting-started', 'path-rules'],
+          children: ['', 'getting-started', 'path-rules', 'plan'],
         },
       ],
     },
