@@ -22,18 +22,14 @@ Ajax Hook 基于开源代码库 [ajax-hook](https://github.com/wendux/ajax-hook)
 
 ## 为什么不是 ...?
 
-### Mock.js
+### [Apifox](https://www.apifox.cn/)
 
-http://mockjs.com/
+Apifox 集 API 文档、API 调试、API Mock、API 自动化测试等功能于一身，本地安装应用。目前社区较为推荐功能大而全，但对于前端角色而言 API Mock 足以， Just Mock 更轻量。
 
-### Apifox
+### [ajax-interceptor](https://github.com/YGYOOO/ajax-interceptor)
 
-https://www.apifox.cn/
+ajax-interceptor 一个可以修改 Ajax 请求返回结果的 Chrome 插件，可用于调试/排查页面上的问题。Just Mock 的灵感来源于此，相比 ajax-interceptor 而言增加更丰富、快捷的操作同时保证拦截请求不透传到后端不污染数据。
 
-### ajax-interceptor
+### [YApi](https://github.com/YMFE/yapi)
 
-https://github.com/YGYOOO/ajax-interceptor
-
-### yapi
-
-https://github.com/YMFE/yapi
+YApi 是高效、易用、功能强大的 api 管理平台本地搭建服务，旨在为开发、产品、测试人员提供更优雅的接口管理服务，也提供 Mock 附属功能。

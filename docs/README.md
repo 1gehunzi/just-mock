@@ -10,11 +10,11 @@ actions:
     link: /guide/
     type: secondary
 features:
-  - title: 快速上手
-    details: 安装浏览器插件，配置表单即可使用。无学习成本。
-  - title: 简洁轻量
-    details: 只针对前端 mock 痛点，功能简单聚焦，无心智负担。
-  - title: 安全实用
+  - title: 用法简单
+    details: 基于浏览器插件，配置表单即可使用。无学习成本。
+  - title: 开发无侵入
+    details: 无需修改已有代码，就可以拦截 Ajax 请求，返回模拟的响应数据。
+  - title: 轻量实用
     details: 坚持实用至上，拒绝花里胡哨的功能堆砌。数据本地存储，无安全隐患。
 footer: MIT Licensed | Copyright © 2021-present 亖混子
 ---
