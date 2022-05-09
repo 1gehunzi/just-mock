@@ -13,11 +13,23 @@ Just Mock 通过对比请求的 url + method 与预设规则的 path rule + meth
 <img src="/images/path-rule/1.png" width="40%">
 <img src="/images/path-rule/2.png" width="42%">
 
-### 带参数匹配
+### 参数匹配
 
 推荐值 :star2: :star2: :star2:
 
+参数匹配： 适用于 Restful 风格的接口，如 github 的 issues 接口`/repos/{owner}/{repo}/issues/{issue_number}`
+
+由于参数会根据不同数据变化，无法使用精确匹配。此场景我们应该使用*参数匹配*
+
+规则应写为 `/repos/:owner/:repo/issues/:issue_number`
+
 ### Query 匹配
+
+推荐值 :star2:
+
+Query 匹配： 用 `?xxx=abc` 或者 `?xxx=bcd` 的形式区分接口。
+
+不推荐使用，目前 Just Mock 尚不支持。
 
 ## 其他
 
