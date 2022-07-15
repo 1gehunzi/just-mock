@@ -1,3 +1,7 @@
-# 了解更多
+# :see_no_evil: sponsor
 
-未完待续。。。
+Become a sponsor to Just Mock :heart:
+
+##
+
+<img src="/images/more/donate.jpg" width="300px" style="vertical-align: top;margin: auto;display: block;">

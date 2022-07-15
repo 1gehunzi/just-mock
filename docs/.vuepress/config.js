@@ -21,7 +21,7 @@ module.exports = {
         link: '/guide/',
       },
       {
-        text: '了解更多',
+        text: '赞赏',
         link: '/more',
       },
       {
