@@ -26,7 +26,7 @@ module.exports = {
       },
       {
         text: '插件下载',
-        link: 'https://video-1251432287.cos.ap-beijing.myqcloud.com/Just%20Mock-v1.0.0.zip',
+        link: 'https://video-1251432287.cos.ap-beijing.myqcloud.com/Just%20Mock-v1.0.1.zip',
       },
     ],
     sidebar: {

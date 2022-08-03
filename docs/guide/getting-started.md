@@ -2,7 +2,7 @@
 
 ## 插件下载
 
-:point_right: [Just Mock-v1.0.0.zip](https://video-1251432287.cos.ap-beijing.myqcloud.com/Just%20Mock-v1.0.0.zip)
+:point_right: [Just Mock-v1.0.1.zip](https://video-1251432287.cos.ap-beijing.myqcloud.com/Just%20Mock-v1.0.1.zip)
 
 ::: tip 为啥不从 Chrome 网上应用店直接安装？
 本人没有 visa 信用卡不能注册开发者，因此无法上传插件到 chrome 应用店
